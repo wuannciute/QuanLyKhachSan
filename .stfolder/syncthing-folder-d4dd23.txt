@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: yavwu-gpb3m
+created: 2025-06-26T23:29:00+07:00
